@@ -171,9 +171,9 @@ npm start
 ```
 Build app for prodaction:
 ```shell
-npm run buildP
+npm run build:prod
 ```
 Build app for development:
 ```shell
-npm run buildD
+npm run build:dev
 ```
