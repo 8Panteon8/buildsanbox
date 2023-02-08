@@ -158,3 +158,22 @@ Add `scripts` in `package.json`for a quick start
     "buildP": "webpack --env mode=development",
   },
 ```
+---
+**How to make it work?**
+
+Install the dependencies:
+```shell
+npm install
+```
+Running a web server:
+```shell
+npm start 
+```
+Build app for prodaction:
+```shell
+npm run buildP
+```
+Build app for development:
+```shell
+npm run buildD
+```
